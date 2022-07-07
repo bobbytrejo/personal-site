@@ -1,4 +1,4 @@
-# personal-site
+# Personal Site project
 
 ## About Scrimba
 
